@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Geya Reddy
 
 ```text
-$ whoami
-
 > Computer Science & IT student
 > Building projects to learn, experiment, and solve real problems.
 ```
@@ -12,8 +10,6 @@ I'm a **Computer Science & IT student** interested in software development, IoT,
 I enjoy learning by building — from hardware-based IoT systems and Java applications to databases, APIs, and machine learning projects.
 
 ```text
-$ cat focus.log
-
 [+] CURRENTLY LEARNING : Software Development, AI/ML & Backend Systems
 [+] BUILDING           : IoT, Java, Web & Database Projects
 [+] EXPLORING          : Android Development & Intelligent Systems
