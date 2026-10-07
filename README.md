@@ -154,8 +154,8 @@ I use GitHub to document my coursework, experiments, projects, and things I'm le
 ```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║   SYSTEM // GEYAREDDY                                     ║
-║   STATUS // LEARNING • BUILDING • IMPROVING               ║
+║   SYSTEM // GEYAREDDY                                      ║
+║   STATUS // LEARNING • BUILDING • IMPROVING                ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
